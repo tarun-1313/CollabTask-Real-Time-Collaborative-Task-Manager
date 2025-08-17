@@ -1,30 +1,39 @@
 # Real-Time Task Manager
 
-*Automatically synced with your [v0.app](https://v0.app) deployments*
+# CollabTask – Real-Time Collaborative Task Manager  
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/tarunchaudhari1313-2520s-projects/v0-real-time-task-manager)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/chat/projects/AIZj47xq0rk)
+## 🚀 Overview  
+CollabTask is a real-time collaborative task manager built for teams to create, assign, and track tasks efficiently.  
+It supports drag-and-drop boards, real-time updates, role-based permissions, and an integrated chat system for smooth communication.  
 
-## Overview
+## ✨ Features  
+- 🔄 **Real-time updates** with Socket.IO / Firebase  
+- 📌 **Task Boards** with drag-and-drop functionality  
+- 👥 **User Roles**: Admin & Member access control  
+- 🔔 **Notifications** for task updates and mentions  
+- 💬 **In-app Chat** for team communication  
+- 📊 **Dashboard** to track progress and deadlines  
 
-This repository will stay in sync with your deployed chats on [v0.app](https://v0.app).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.app](https://v0.app).
+## 🛠️ Tech Stack  
+- **Frontend:** React, Tailwind CSS  ,TypeScript
+- **Backend:** Node.js, Express  
+- **Database:** MongoDB  
+- **Real-time:** Socket.IO (or Firebase)  
 
-## Deployment
 
-Your project is live at:
+## ⚙️ Installation & Setup  
 
-**[https://vercel.com/tarunchaudhari1313-2520s-projects/v0-real-time-task-manager](https://vercel.com/tarunchaudhari1313-2520s-projects/v0-real-time-task-manager)**
+### 1. Clone Repository  
+```bash
+git clone https://github.com/tarun-1313/CollabTask-Real-Time-Collaborative-Task-Manager
+cd collabtask
 
-## Build your app
+📌 Future Enhancements
 
-Continue building your app on:
+📱 Mobile-friendly UI/UX improvements
 
-**[https://v0.app/chat/projects/AIZj47xq0rk](https://v0.app/chat/projects/AIZj47xq0rk)**
+📅 Calendar integration for deadlines
 
-## How It Works
+🗂️ File sharing in chat
 
-1. Create and modify your project using [v0.app](https://v0.app)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+🔐 Two-factor authentication
