@@ -20,6 +20,12 @@ It supports drag-and-drop boards, real-time updates, role-based permissions, and
 - **Database:** MongoDB  
 - **Real-time:** Socket.IO (or Firebase)  
 
+Screenshot:
+<img width="1724" height="806" alt="Screenshot 2025-08-26 192349" src="https://github.com/user-attachments/assets/0638932b-a808-4de5-a203-6e509b0685da" />
+<img width="1911" height="909" alt="Screenshot 2025-08-26 192317" src="https://github.com/user-attachments/assets/0ed60658-1cfe-4d6c-a21f-75a537447b20" />
+<img width="1904" height="826" alt="Screenshot 2025-08-26 192146" src="https://github.com/user-attachments/assets/ef66674c-2ff8-48c8-96a0-55f39106d3ac" />
+<img width="1852" height="904" alt="Screenshot 2025-08-26 192224" src="https://github.com/user-attachments/assets/9e752bef-37a0-4816-b2e8-56440ca852f0" />
+
 
 ## ⚙️ Installation & Setup  
 
